@@ -13,6 +13,10 @@ public class calculoSencillo {
 		resultado = num1+num2+num3;
 		
 		System.out.println("La suma de los números 4, 12 y 7 es: "+resultado);
+		
+		resultado = (num2-num1)+num3;
+		
+		System.out.println("El resultado de (12 - 4) + 7 es: "+resultado);
 	}
 
 }
