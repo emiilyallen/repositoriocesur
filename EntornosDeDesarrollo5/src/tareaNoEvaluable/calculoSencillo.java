@@ -17,6 +17,11 @@ public class calculoSencillo {
 		resultado = (num2-num1)+num3;
 		
 		System.out.println("El resultado de (12 - 4) + 7 es: "+resultado);
+		
+		resultado = num1*num3 - num2;
+		
+		System.out.println("El resultado de 4 x 7 - 12 es: "+resultado);
+
 	}
 
 }
